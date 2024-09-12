@@ -1,4 +1,4 @@
-# webAlly Project
+# webAlly.co.za
 
 ## Overview
 
