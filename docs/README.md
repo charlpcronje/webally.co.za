@@ -17,3 +17,4 @@ For webAlly.co.za the following tech stack has been decided on based on the foll
 - [More information](./stack/moreInfo.md)
 - [Installation](./stack/install.md)
 - [AI Assistance Prompts](./ai/prompts.md)
+- [ShadCN UI components](./ui/shadcn.md)

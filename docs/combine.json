@@ -1,0 +1,19 @@
+{
+    "root_path": "/var/www/html/new.webally.co.za/docs/ui/shadcn",
+    "output_path": "/var/www/html/new.webally.co.za/docs/ui/shadcn/shadcn-components.md",
+    "gitignore_path": "",
+    "exclude_folders": [
+        "ai",
+        "stack"
+    ],
+    "exclude_files": [
+        "combined.md",
+        "data-table.md",
+        "date-picker.md",
+        "shadcn-components.md"
+    ],
+    "file_types": [
+        ".md",
+        ".ts"
+    ]
+}

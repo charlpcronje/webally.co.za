@@ -1,0 +1,17 @@
+{
+    "root_path": "/var/www/html/new.webally.co.za",
+    "output_path": "/var/www/html/new.webally.co.za/combined.md",
+    "gitignore_path": "",
+    "exclude_folders": [
+        ".history",
+        ".github",
+        ".git"
+    ],
+    "exclude_files": [
+        "combined.md"
+    ],
+    "file_types": [
+        ".svelte",
+        ".ts"
+    ]
+}

@@ -1,0 +1,53 @@
+/* This file contains global styles for the webAlly website */
+
+/* TODO: Import Tailwind CSS base styles */
+@import 'tailwindcss/base';
+
+/* TODO: Import Tailwind CSS component styles */
+@import 'tailwindcss/components';
+
+/* TODO: Import Tailwind CSS utility styles */
+@import 'tailwindcss/utilities';
+
+/* TODO: Define custom color variables */
+:root {
+  /* Add custom color variables here */
+}
+
+/* TODO: Implement global typography styles */
+/* Example:
+body {
+  @apply font-sans text-base text-gray-900;
+}
+*/
+
+/* TODO: Implement global link styles */
+/* Example:
+a {
+  @apply text-blue-600 hover:text-blue-800;
+}
+*/
+
+/* TODO: Implement global button styles */
+/* Example:
+.btn {
+  @apply px-4 py-2 rounded-md transition-colors duration-200;
+}
+*/
+
+/* TODO: Implement global form input styles */
+/* Example:
+input[type="text"], input[type="email"], textarea {
+  @apply w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500;
+}
+*/
+
+/* TODO: Implement global container styles */
+/* Example:
+.container {
+  @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
+}
+*/
+
+/* TODO: Implement global responsive adjustments */
+/* Add any global responsive styles here */

@@ -1,0 +1,14 @@
+# This file defines the CI/CD pipeline for the webAlly website.
+
+# TODO: Define CI workflow
+# - Set up Node.js environment
+# - Install dependencies
+# - Run linter
+# - Run unit tests
+# - Run integration tests
+# - Build the application
+
+# TODO: Define CD workflow (if using GitHub Actions for deployment)
+# - Set up deployment environment (e.g., AWS, Vercel, Netlify)
+# - Deploy the built application
+# - Run post-deployment checks
